@@ -1,0 +1,13 @@
+{
+  "name": "testApp",
+  "version": "1.0",
+  "main": "index.js",
+  "author": "David",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd src/scripts; node test; cd ../.."
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
